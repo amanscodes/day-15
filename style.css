@@ -1,0 +1,15 @@
+body > table{
+    width: 100%;
+    margin: 20px;
+}
+table.list{
+    width: 100%;
+    margin-left: 20px;
+}
+table{
+    border-collapse: collapse;
+    justify-content: space-between;
+}
+.head{
+    background-color: aqua;
+}
