@@ -23,7 +23,6 @@ function readFormData() {
     formData["food"] = result.join(", ");
     formData["state"] = document.getElementById("state").value;
     formData["country"] = document.getElementById("country").value;
-
     return formData;
 };
 function insertNewRecord(data) {
