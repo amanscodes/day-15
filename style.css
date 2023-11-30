@@ -10,6 +10,7 @@ table{
     border-collapse: collapse;
     justify-content: space-between;
 }
+
 .head{
     background-color: aqua;
 }
